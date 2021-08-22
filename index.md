@@ -34,11 +34,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 [序](Preface.md)
 
-教师的话
+[教师的话](TeachersWords.md)
 
-第一讲 什么是计算机程序？
+第一讲 [什么是计算机程序？](Lec1.md)
 
-第二讲 角色的动作、绘图和音乐演奏	31
+第二讲 [角色的动作、绘图和音乐演奏](Lec2.md)
 
 第三讲 变量：角色的记忆	38
 
