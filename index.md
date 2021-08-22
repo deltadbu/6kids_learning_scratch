@@ -31,14 +31,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ![六个小孩学编程书的封面](Figures/SIGMA-Book.png)
 
-序 言	7
+[序](Preface.md)
 
-前 言	9
+教师的话
 
-教师的话	11
-
-
-第一讲 什么是计算机程序？	17
+第一讲 什么是计算机程序？
 
 第二讲 角色的动作、绘图和音乐演奏	31
 
