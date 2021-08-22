@@ -103,12 +103,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 后 记	239
 
-![image](https://user-images.githubusercontent.com/13411394/130356659-e9cbfe95-c2df-4b58-9635-b1e3f5d82465.png)
-
-
-![image](https://user-images.githubusercontent.com/13411394/130356628-d5f9e2d5-d218-4479-9222-b0c369d72dd4.png)
-
-
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
