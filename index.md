@@ -23,7 +23,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 我们写这本书时最初的想法是：大部分编程书都是大人写的，都是以大人的视角来看的。我们想以孩子的视角写一本编程书，于是我们便一人写几章，把学习心得记录下来，最终形成了这本书。
 
 我觉得这本书和其他书是不一样的，它记录的是每一位小作者对每讲的看法与总结，记录我们每个编程初学者对程序从陌生到熟悉并形成自己思维的过程，我们也希望我们的经历可以帮助更多的初学小朋友爱上编程和计算思维。
-我们写的程序都放在https://deltadbu.github.io/6kids_learning_scratch/上，供大家参考。
+我们写的程序都放在[这个网址][https://deltadbu.github.io/6kids_learning_scratch/]上，供大家参考。
 
 
 希望你能喜欢这本书啊！
