@@ -7,7 +7,7 @@
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ![SIGMA数学特别兴趣组](Figures/SIGMA-Logo.png)
-[SIGMA数学特别兴趣组](Figures/SIGMA.png)
+![SIGMA数学特别兴趣组](Figures/SIGMA.png)
 
 
 小SIGMA数学特别兴趣组成立于2018年，有6名学生，分别是包若宁、卜文远、傅鼎荃、魏文珊、谭沛之和张秦汉。那时候我们都是9岁左右，上三年级。我们有3位老师：卜东波老师、包云岗老师和兰艳艳老师。
