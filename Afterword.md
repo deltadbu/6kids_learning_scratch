@@ -1,7 +1,7 @@
 # 后记 
 
 
-[我们六个在编程](Afterword.png) 
+![我们六个在编程](Afterword.png) 
 
 ---
 
