@@ -58,7 +58,7 @@
 我学习Scratch的感受可以用几个字概括：新奇，有趣，好玩。因为学习Scratch，第一次动手操作电脑，一切都很新奇；在学习过程中，本不爱思考的我在老师们的引导下茅塞顿开，感觉Scratch很有趣，通过学习我的数学思维能力也有所提高。在应用方面，无论是用Scratch画椭圆，估计Pi，掷骰子，解决鸡兔同笼问题，幻方，还是阿尔法狗下棋，都非常好玩。
 
 在爸爸妈妈的指导与帮助下，我仿照《三国演义》电视剧主题曲改编了一下歌词，请您指教：
-![TanPoem](Figures/TanPoem.png)
+<div align="center">![TanPoem](Figures/TanPoem.png)</div>
 
     ---谭沛之 中关村一小 五年级11班
 
@@ -120,15 +120,6 @@
 ## 封面设计
 
 刘卫玲 中科院计算所 高级工程师
-
-
-
-![image](https://user-images.githubusercontent.com/13411394/130362487-ef1b5c95-416a-42e5-a35a-e80a8d6a8ba8.png)
-
-![image](https://user-images.githubusercontent.com/13411394/130362469-5e24041d-a06f-434a-b65d-800e9944f994.png)
-
-
-![image](https://user-images.githubusercontent.com/13411394/130362452-d6a78e96-0641-4ab8-9132-a7a49754bacf.png)
 
 
 [返回上级](index.md)
