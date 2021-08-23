@@ -58,7 +58,7 @@
 我学习Scratch的感受可以用几个字概括：新奇，有趣，好玩。因为学习Scratch，第一次动手操作电脑，一切都很新奇；在学习过程中，本不爱思考的我在老师们的引导下茅塞顿开，感觉Scratch很有趣，通过学习我的数学思维能力也有所提高。在应用方面，无论是用Scratch画椭圆，估计Pi，掷骰子，解决鸡兔同笼问题，幻方，还是阿尔法狗下棋，都非常好玩。
 
 在爸爸妈妈的指导与帮助下，我仿照《三国演义》电视剧主题曲改编了一下歌词，请您指教：
-<div align="center">![TanPoem](Figures/TanPoem.png)</div>
+<div align="center">![TanPoem](Figures/TanPoem.png)
 
     ---谭沛之 中关村一小 五年级11班
 
