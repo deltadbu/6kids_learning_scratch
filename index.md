@@ -34,7 +34,7 @@
 
 ## 视频
 
-[2021年度计算所“公众科学日”知乎课堂“如何用Scratch实现一只阿尔法小狗” (视频)](http://bioinfo.ict.ac.cn/~dbu/Video/SIGMA-MiniAlphaGo.mp4)
+[如何用Scratch实现一只阿尔法小狗？(2021年度计算所“公众科学日”知乎课堂)](http://bioinfo.ict.ac.cn/~dbu/Video/SIGMA-MiniAlphaGo.mp4)
 
 ## 编程基础篇
 ---
