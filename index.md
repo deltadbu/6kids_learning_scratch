@@ -1,4 +1,4 @@
-# 六个小孩学编程
+# 少儿计算思维养成记---六个小孩的编程学习笔记
 
 ![SIGMA数学特别兴趣组](Figures/SIGMA-Logo.png)
 ![SIGMA数学特别兴趣组](Figures/SIGMA.png)
@@ -26,9 +26,13 @@
 
 ![六个小孩学编程书的封面](Figures/SIGMA-Book.png)
 
-[序](Preface.md)
+[序（作者：徐志伟研究员）](Preface.md)
 
-[教师的话](TeachersWords.md)
+[教师的话（一）](TeachersWords.md)
+
+[教师的话（二）](TeachersWords2.md)
+
+## 视频
 
 [2021年度计算所“公众科学日”知乎课堂“如何用Scratch实现一只阿尔法小狗” (视频)](http://bioinfo.ict.ac.cn/~dbu/Video/SIGMA-MiniAlphaGo.mp4)
 
