@@ -93,8 +93,11 @@
 
 第二十五讲 博弈初探：会下TIC-TAC-TOE棋的阿尔法小狗
 
+
+[后记](Afterword.md)
+
+
 本书已在[京东](https://item.jd.com/13702980.html
 )、[当当](http://product.dangdang.com/29386865.html
 )上架。
 
-[后记](Afterword.md)
