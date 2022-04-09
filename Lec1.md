@@ -23,9 +23,37 @@ Scratch图形、声音等素材丰富，适合中小学生来学习。用Scratch
 
 ## 二、怎样让计算机听懂Scratch语言？
 
+要让你的计算机听懂Scratch语言的话，你得给它配个“Scratch语言翻译官”。这个翻译官可以这样下载：
+
+（1）Scratch的官方网站
+从[https://scratch.mit.edu/download](https://scratch.mit.edu/download)下载。
+
+![Scratch官方网站](Figures/Lec1-2.png)
+图1-2 MIT大学的Scratch官方网站
+
+
+我用的电脑是Mac笔记本，所以我点击了图1-2的MacOS图标；如果你的电脑是Windows系统的话，你需要点击Windows图标。我们用的是Scratch3.0版本。
+
+（2）Scratch的国内镜像网站
+从[https://scratch.cf/](https://scratch.cf/)下载，如果无法访问Scratch官方网址的话，可以访问它的国内镜像网址。
+
+（3）国产的Scratch编程平台
+Scratch源代码已开源了，国内团队基于这些源代码做了进一步开发，比如“慧编程”系统，也是一个很好的Scratch翻译官，可以从[https://mblock.makeblock.com/zh-cn/](https://mblock.makeblock.com/zh-cn/)下载安装使用。
+
+如果你不想在自己的电脑上安装Scratch翻译官的话，也没关系；MIT大学已经有一台听得懂Scratch语言的机器，网址是[http://scratch.mit.edu](http://scratch.mit.edu），可以用浏览器直接访问并使用。进入这个网站之后，点击“Start Creating”就可以编程啦！如果你访问不了这个网址的话，也可以用[“慧编程”的服务器](https://ide.makeblock.com/)。
+
+
 ## 三、什么是计算机程序？
 
-## 四、Scratch编程环境简介!
+用计算机语言说的一段话，就是计算机程序。换句话说，要让计算机干活儿，就得告诉它“指令”，计算机根据指令做动作；这些指令串起来就是程序。
+
+Scratch程序就更加形象了：里面有角色，有舞台；角色根据脚本在舞台上表演。这个脚本就是程序。图1-1就是一段Scratch程序：Scratch程序默认会有一个角色，是一只小猫；这段程序的意思是指挥小猫移动、右转、等待。很好玩吧？
+
+
+## 四、Scratch编程环境简介
+用安装的Scratch语言翻译器能直接编写程序。这个翻译器由以下5部分组成：积木区、程序代码区、表演舞台、角色设置区和背景设置区。
+![Scratch编程平台的界面](Figures/Lec1-3.png)
+图1-3 Scratch编程平台的界面
 
 
 ## 六、一个复杂一点儿的Scratch程序：托球游戏
@@ -41,6 +69,6 @@ Scratch图形、声音等素材丰富，适合中小学生来学习。用Scratch
 
 **代码下载** 
 
-[托球游戏的脚本](Code/第1讲-托球.sb3)
+[托球游戏的代码](Code/第1讲-托球.sb3)
 
 [返回上级](index.md)
