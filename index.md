@@ -90,7 +90,7 @@
 
 ## 后记
 
-[后记](Afterword.md)
+[写在后面](Afterword.md)
 
 ## 视频与手稿
 
