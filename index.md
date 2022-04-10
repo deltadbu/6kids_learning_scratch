@@ -21,7 +21,7 @@
 
 
 
-[序（作者：徐志伟研究员）](Preface.md)
+[序](Preface.md)
 
 [前言](PrefaceSIGMA.md)
 
