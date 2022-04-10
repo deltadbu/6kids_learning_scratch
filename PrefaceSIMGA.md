@@ -19,9 +19,9 @@
 
 希望你能喜欢这本书啊！
 
-<p align="righ">小SIGMA数学特别兴趣组 </p>
+<p align="right">小SIGMA数学特别兴趣组 </p>
 
-<p align="righ">2020年暑假 北京中关村 </p>
+<p align="right">2020年暑假 北京中关村 </p>
 
- [小SIGMA数学特别兴趣组徽章](Figures/SIGMA-Logo.png)
+![小SIGMA数学特别兴趣组徽章](Figures/SIGMA-Logo.png)
 
