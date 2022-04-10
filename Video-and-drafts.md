@@ -12,7 +12,7 @@
 好在我们事先准备充分，现场编程出了bug，也顺利debug了。最后还分成两个战队，每队用不同的棋局打分，比比谁的狗厉害！能够完成现场编程和讲解，表明孩子们基本上掌握了博弈的入门知识。
 
 
-[如何用Scratch实现一只阿尔法小狗？(2021年度计算所“公众科学日”知乎课堂)](http://bioinfo.ict.ac.cn/~dbu/Video/SIGMA-MiniAlphaGo.mp4)
+[视频：如何用Scratch实现一只阿尔法小狗？(2021年度计算所“公众科学日”知乎课堂)](http://bioinfo.ict.ac.cn/~dbu/Video/SIGMA-MiniAlphaGo.mp4)
 
 ### 原始手稿
 
