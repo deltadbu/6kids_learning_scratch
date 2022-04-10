@@ -23,5 +23,5 @@
 
 <p align="right">2020年暑假 北京中关村 </p>
 
-![小SIGMA数学特别兴趣组徽章](Figures/SIGMA-Logo.png)
+<p align="center">![小SIGMA数学特别兴趣组徽章](Figures/SIGMA-Logo.png)</p>
 
