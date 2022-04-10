@@ -1,16 +1,23 @@
 # 少儿计算思维养成记---六个小孩的编程学习笔记
 
-![SIGMA数学特别兴趣组](Figures/SIGMA-Logo.png)
-
-![SIGMA数学特别兴趣组](Figures/SIGMA.png)
 
 
+![六个小孩学编程书的封面](Figures/BookCoverpage.png)
 
+## 作者：
+![小SIGMA数学特别兴趣组](Figures/SIGMA-Logo-and-members.png)
 
-![六个小孩学编程书的封面](Figures/Book-Coverpage.png)
+小SIGMA数学特别兴趣组成员：左起：包若宁（中关村一小四年级）、魏文珊（中关村一下四年级）、傅鼎荃（北大附小四年级）、张秦汉（北京双榆树中心小学三年级）、卜文远（中关村一小四年级）、谭沛之（中关村一小五年级）
 
-![中国计算机学会10大科普推荐书目](Figures/CCF-top10book.png)
-本书被推荐为中国计算机学会10大科普阅读推荐书目，获得中国科学院科普专项支持
+## 指导教师：
+
+![小SIGMA数学特别兴趣组指导教师](Figures/SIGMA-Teachers-small.png)
+左：卜东波，中科院计算所研究员；研究方向：计算机算法设计、生物信息学；提出了逆向蒙特卡罗采样算法、蛋白质结构预测算法FALCON；在国科大讲授《算法设计与分析》，讲授如何观察问题、如何根据观察设计算法求解问题
+
+中：包云岗，中科院计算所研究员；研究方向：计算机系统；负责国科大“一生一芯”实践计划；在国科大讲授《操作系统》，讲授如何设计CPU和计算机系统
+
+右：兰艳艳，清华大学教授、前中科计算所研究员；研究方向：统计学、机器学习，排序学习的代表性人物；在国科大讲授《人工智能与机器学习》，教计算机如何学习
+
 
 
 [序（作者：徐志伟研究员）](Preface.md)
@@ -21,9 +28,6 @@
 
 [教师的话（二）](TeachersWords2.md)
 
-## 视频
-
-[如何用Scratch实现一只阿尔法小狗？(2021年度计算所“公众科学日”知乎课堂)](http://bioinfo.ict.ac.cn/~dbu/Video/SIGMA-MiniAlphaGo.mp4)
 
 ## 编程基础篇
 ---
@@ -83,12 +87,38 @@
 第二十五讲 [博弈初探：会下TIC-TAC-TOE棋的阿尔法小狗](Lec25.md)
 
 
+## 后记
+
 [后记](Afterword.md)
 
+## 视频与手稿
+
+[小SIGMA讲解本书章节的视频与原始手稿](Video-and-drafts.md)
+
+
+
+
+## 勘误
+
+如您发现书中的错误，请发email至：[dbu@ict.ac.cn] <dbu@ict.ac.cn> 
+
+## 书评
+
+![中国计算机学会10大科普推荐书目](Figures/CCF-top10book.png)
+本书被推荐为中国计算机学会10大科普阅读推荐书目，获得中国科学院科普专项支持
+
+![封底推荐语](Figures/Li-Xiong.png)
+
+
+
+
+## 购买渠道
 
 本书已在[京东](https://item.jd.com/13702980.html
 )、[当当](http://product.dangdang.com/29386865.html
 )上架。
 
-如您发现书中的错误，请发email至：[dbu@ict.ac.cn] <dbu@ict.ac.cn> 
+
+
+
 
