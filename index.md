@@ -101,3 +101,5 @@
 )、[当当](http://product.dangdang.com/29386865.html
 )上架。
 
+如您发现书中的错误，请发email至：[dbu@ict.ac.cn] <dbu@ict.ac.cn> 
+
