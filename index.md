@@ -101,7 +101,7 @@
 
 ## 勘误
 
-如您发现书中的错误，请发email至：[dbu@ict.ac.cn] <dbu@ict.ac.cn> 
+如您发现书中的错误，请发email至：[Dongbo Bu]<dbu@ict.ac.cn> ，谢谢
 
 ## 书评
 
