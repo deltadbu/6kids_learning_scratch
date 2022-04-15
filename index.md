@@ -101,9 +101,9 @@
 
 [教学PPT](Slides.md)
 
-## 勘误
+## 讨论区及勘误
 
-如您发现书中的错误，请发email至：[Dongbo Bu]<dbu@ict.ac.cn> ，谢谢
+如果您在使用本书的过程中，有任何建议、意见或问题，比如编程中碰到的问题、发现的错误等，请写在“[知乎讨论区](https://zhuanlan.zhihu.com/p/495450258)”中，或发email至：[Dongbo Bu]<dbu@ict.ac.cn> ，谢谢
 
 ## 书评
 
