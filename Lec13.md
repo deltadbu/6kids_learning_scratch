@@ -73,7 +73,7 @@
 
 点击[求解三阶幻方的代码](Code/第13讲-三阶幻方.sb3)下载于本地运行，或者点击[三阶幻方Web版](https://scratch.mit.edu/projects/683255301/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434708)直接运行
 
 ## 五、实验结果
 
