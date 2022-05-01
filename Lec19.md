@@ -105,7 +105,13 @@ C2 表示 2 月份的少年兔子对数，其他 C3, C4 等依次类推。
 
 点击[斐波那契数列-大中小三类兔子](Code/第19讲-斐波那契数列-大中小三类兔子.sb3)下载于本地运行，或点击[斐波那契兔子Web版](https://scratch.mit.edu/projects/683358769/)直接运行
 
+
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434731)直接运行
+
+
 点击[斐波那契数列-大中中小四类兔子](Code/第19讲-斐波那契数列-大中中小四类兔子.sb3)下载于本地运行，或点击[斐波那契兔子Web版（3个月才成年）](https://scratch.mit.edu/projects/683359376/)直接运行
+
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434732)直接运行
 
 
 ## 五、实验结果及分析
