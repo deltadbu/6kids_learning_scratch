@@ -62,7 +62,13 @@ Sun=n-Tang，就是剩下几个孙悟空吃几个。
 
 点击[四个和尚分馍馍的代码（最笨的方法）](Code/第14讲-四个和尚分馍馍-最笨的方法.sb3)下载于本地运行，或点击[四个和尚分馍馍笨方法Web版](https://scratch.mit.edu/projects/683257227/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434714)直接运行
+
+
 点击[四个和尚分馍馍的代码（聪明的方法）](Code/第14讲-四个和尚分馍馍-聪明的方法.sb3)下载于本地运行，或点击[四个和尚分馍馍聪明方法Web版](https://scratch.mit.edu/projects/683256822/)直接运行 
+
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434715)直接运行
+
 
 ## 五、实验结果
 
