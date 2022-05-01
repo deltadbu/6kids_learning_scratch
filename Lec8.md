@@ -48,6 +48,8 @@
 
 点击[计算最大最小值的代码](Code/第8讲-计算最大最小值-修正版.sb3)下载于本地运行，或点击[计算最大最小值Web版](https://scratch.mit.edu/projects/683248098/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434690)直接运行
+
 --- 
 
 ### 实验二：计算列表中数据的平均值
@@ -64,7 +66,7 @@
 点击[计算平均值的代码](Code/第8讲-计算平均值.sb3)下载于本地运行，或点击[计算平均值的Web版](https://scratch.mit.edu/projects/683248639/)直接运行
 
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434691)直接运行
 
 
 ## 四、教师点评
