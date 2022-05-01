@@ -38,6 +38,8 @@
 点击[一只会走动的钟表代码](Code/第2讲-会走的钟表.sb3) 下载于本地运行，或点击[一只会走动的钟表Web版](https://scratch.mit.edu/projects/683226115)直接运行
 
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433908)直接运行
+
 --- 
 
 ### 实验二： 音乐演奏
@@ -53,6 +55,7 @@
 点击[演奏《两只老虎》的代码](Code/第2讲-两只老虎.sb3) 下载于本地运行，或点击[演奏《两只老虎》Web版](https://scratch.mit.edu/projects/683223592/)直接运行
 
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433907)直接运行
 
 ---
 ### 实验三： 用计算机键盘弹钢琴
@@ -69,6 +72,7 @@
 
 点击[用计算机键盘弹钢琴的代码](Code/第2讲-钢琴.sb3) 下载于本地运行，或点击[用计算机键盘弹钢琴的代码](https://scratch.mit.edu/projects/683227239/) 直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433910)直接运行
 
 ## 四、教师点评
 第二堂课的目的是继续讲授角色的基本动作，扩展到了画笔和音乐演奏。用画 笔模块，能够快速画出图形;用音乐模块，能够演奏乐曲，这使孩子们很有兴趣。
