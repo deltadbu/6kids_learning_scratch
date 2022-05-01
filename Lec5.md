@@ -48,6 +48,7 @@
 
 点击[阅兵方阵列队行进的代码](Code/第5讲-阅兵方阵列队行进.sb3) 下载于本地运行，或点击[阅兵方阵列队行进Web版](https://scratch.mit.edu/projects/683238019/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433918)直接运行
 
 ## 三、教师点评
 
