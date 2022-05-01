@@ -151,7 +151,7 @@ tic-tac-toe 棋这个游戏很多小朋友都玩过。我们来回想一下是�
 
 点击[阿尔法小狗的代码](Code/第25讲-阿尔法小狗.sb3)下载于本地运行，或点击[阿尔法小狗Web版](https://scratch.mit.edu/projects/683365064/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434747)直接运行
 
 ## 六、实验结果
 
