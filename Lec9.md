@@ -71,6 +71,8 @@ myName”就得到了一个新的字符串“IamWenshanWei”。
 
 点击[元音字母计数的代码](Code/第9讲-元音字母数目.sb3)下载于本地运行，或点击[元音字母计数Web版](https://scratch.mit.edu/projects/683249000/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434693)直接运行
+
 
 ## 三、教师点评
 
