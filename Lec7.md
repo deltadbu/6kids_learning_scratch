@@ -48,6 +48,8 @@
 
 点击[画蜘蛛网的程序](Code/第7讲-蜘蛛网.sb3)下载于本地运行，或点击[画蜘蛛网的Web版](https://scratch.mit.edu/projects/683246540/)直接运行 
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433933)直接运行
+
 --- 
 
 ### 实验二： 彩虹风车
@@ -68,6 +70,7 @@
 
 点击[画彩虹风车的程序](Code/第7讲-风车.sb3)下载于本地运行，或点击[画彩虹风车的Web版](https://scratch.mit.edu/projects/683247053/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433934)直接运行
 
 
 ## 四、教师点评
