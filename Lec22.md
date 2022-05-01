@@ -64,9 +64,11 @@
 
 点击[算平方根的代码](Code/第22讲-算平方根.sb3)下载于本地运行，或点击[算平方根Web版](https://scratch.mit.edu/projects/683362067/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434738)直接运行
 
 点击[算2的十二次方根的代码](Code/第22讲-算2的十二次方根.sb3)下载于本地运行，或点击[算2的十二次方根Web版](https://scratch.mit.edu/projects/683362605/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434743)直接运行
 
 ## 六、实验结果
 
