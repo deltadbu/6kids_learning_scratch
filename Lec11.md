@@ -80,7 +80,7 @@
 
 点击[刘徽割圆法的代码](Code/第11讲-刘徽割圆法.sb3)下载于本地运行，或点击[刘徽割圆法Web版](https://scratch.mit.edu/projects/683250403/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434700)直接运行
 
 ## 六、实验结果
 
