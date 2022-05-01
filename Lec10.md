@@ -89,6 +89,10 @@
 
 点击[谁在哪里干什么的代码](Code/第10讲-谁在哪里干什么游戏.sb3)下载于本地运行，或点击[谁在哪里干什么游戏Web版](https://scratch.mit.edu/projects/683249718/)直接运行
 
+
+
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434696)直接运行
+
 ## 三、教师点评
 
 消息是计算机中非常重要的协调和同步机制。
