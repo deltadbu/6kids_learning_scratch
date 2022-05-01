@@ -57,9 +57,9 @@
 ![图16-2](Figures/Lec16-2.png)
 
 
-### 代码下载
+### 代码下载及Web版
 
-[打圆形靶子估计Pi的代码](Code/第16讲-打圆形靶子估计Pi.sb3) 
+点击[打圆形靶子估计Pi的代码](Code/第16讲-打圆形靶子估计Pi.sb3)下载于本地运行，或点击[打圆形靶子估计Pi的Web版](https://scratch.mit.edu/projects/683356526/)直接运行
 
 
 
