@@ -61,11 +61,11 @@
 
 点击[布丰投针估计Pi的代码（直针）](Code/第17讲-布丰投针估计Pi-直针.sb3)下载于本地运行，或点击[布丰投针Web版（直针）](https://scratch.mit.edu/projects/683357258/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434723)直接运行
 
 点击[布丰投针估计Pi的代码（弯曲的针）](Code/第17讲-布丰投针估计Pi-弯曲的针.sb3)下载于本地运行，或点击[布丰投针Web版（弯针）](https://scratch.mit.edu/projects/683357707/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434726)直接运行
 
 ## 六、实验结果
 
