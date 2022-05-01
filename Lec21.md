@@ -76,10 +76,11 @@ x 的候选范围也是只剩下一半的数量了。
 
 点击[找钻石游戏的代码（发送消息版）](Code/第21讲-找钻石-发送消息版.sb3)下载于本地运行，或点击[找钻石游戏Web版（发送消息版）](https://scratch.mit.edu/projects/683361844/)直接运行
 
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434736)直接运行
 
 [找钻石游戏的代码（简洁版）](Code/第21讲-找钻石-简洁版.sb3)下载于本地运行，或点击[找钻石游戏Web版（简洁版）](https://scratch.mit.edu/projects/683361120/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434735)直接运行
 
 ## 六、实验结果及分析
 
