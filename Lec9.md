@@ -67,9 +67,9 @@ myName”就得到了一个新的字符串“IamWenshanWei”。
 ![表9-1](Figures/Lec9-1-Table.png)
 
 
-#### 代码下载 
+#### 代码下载及Web版
 
-[元音字母记数的代码](Code/第9讲-元音字母数目.sb3) 
+点击[元音字母计数的代码](Code/第9讲-元音字母数目.sb3)下载于本地运行，或点击[元音字母计数Web版](https://scratch.mit.edu/projects/683249000/)直接运行
 
 
 ## 三、教师点评
