@@ -63,6 +63,9 @@
 
 点击[带计数器的托球游戏代码](Code/第3讲-带计数器的托球.sb3) 下载于本地运行，或点击[带计数器的托球游戏Web版](https://scratch.mit.edu/projects/683231264/)直接运行
 
+
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434749)直接运行
+
 --- 
 
 ### 实验二：小猫出口算题
@@ -80,6 +83,8 @@
 #### 代码下载
 
 点击[小猫出口算题的代码](Code/第3讲-小猫出加法题-修正版.sb3) 下载于本地运行，或点击[小猫出口算题Web版](https://scratch.mit.edu/projects/683230499/)直接运行
+
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1433913)直接运行
 
 ## 四、教师点评
 
