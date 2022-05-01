@@ -72,7 +72,7 @@
 
 点击[求解鸡兔同笼问题的代码](Code/第15讲-鸡兔同笼.sb3)下载于本地运行，或点击[鸡兔同笼Web版](https://scratch.mit.edu/projects/683356285/)直接运行
 
-
+国内用户如果无法访问scratch.mit.edu的话，请点击[国内可访问的Web版](https://mblock.makeblock.com/project/1434718)直接运行
 
 ## 六、实验结果
 
